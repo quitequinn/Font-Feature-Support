@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="space" format="1">
+  <advance width="275"/>
+  <unicode hex="0020"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.31647058823529417</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="764"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="55" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="235" y="373" type="line"/>
+      <point x="569" y="0" type="line"/>
+      <point x="709" y="0" type="line"/>
+      <point x="709" y="700" type="line"/>
+      <point x="529" y="700" type="line"/>
+      <point x="529" y="326" type="line"/>
+      <point x="195" y="700" type="line"/>
+      <point x="55" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.31647058823529417</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
