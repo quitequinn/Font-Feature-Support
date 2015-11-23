@@ -88,8 +88,7 @@ h1, .h1{
 	}
 }
 h2, .h2{
-	border-top: 5px solid;
-    margin-top: 1.5rem;
+    margin-top: 3rem;
 	padding-top: 0.5rem;
 	font-weight: 700;
 	$size: 20px;
@@ -143,11 +142,12 @@ h4, .h4{
 }
 h5, .h5 p, .h5{
     margin-top: 1rem;
+    margin-bottom: 2rem;
 	padding-top: .5rem;
     font-size: 16px;
     line-height: 1.4;
+    max-width: 650px;
     font-family: $font-family-sans-serif;
-    text-transform: capitalize;
 }
 .h5-bold{
     margin-top: 1rem;
@@ -177,16 +177,7 @@ p{
 	overflow: hidden;
 }
 
-.el-icon-remove, .el-icon-pencil, .el-icon-forward, .el-icon-play{
-	font-size: 20px!important;
-    line-height: 1.5;
-    display: inline-block;
-	@include pointer;
-	@include user-select-none();
-	&:before{
-		font-size: 1.5em;
-		@include m(min, $xxl){
-			font-size: 2em;
-		}
-	}
+footer{
+	margin-top: 4rem;
+	margin-bottom: 2rem;
 }

@@ -3,6 +3,14 @@
 
 <div class="container main">
 	<div class="row">
+		<div class="col-sm-12">
+			<h2>Font-feature-settings Support</h2>
+			<h5>Which OPT Feature tags does your current browser support?<br/>
+			<br/>
+			If the OPT feature is supported "N" will be replaced with "Y". Made with OPT so that it is the actual OPT features you are testing — not an interpretation of them. WARNING! If you are using Safari it is lying to you. Safari doesnt care what you set your css to.</h5>
+		</div>
+	</div>
+	<div class="row">
 		<div class="col-sm-12 OT-table">
 			
 			<table class="table table-hover">
@@ -14,7 +22,7 @@
 				</thead>
 				<tbody>
 					<?php 
-						$FF = array('aalt','abvf','abvm','abvs','afrc','akhn','blwf','blwm','blws','calt','case','ccmp','cfar','cjct','clig','cpct','cpsp','cswh','curs','cv01','c2pc','c2sc','dist','dlig','dnom','dtls','expt','falt','fin2','fin3','fina','flac','frac','fwid','half','haln','halt','hist','hkna','hlig','hngl','hojo','hwid','init','isol','ital','jalt','jp78','jp83','jp90','jp04','kern','lfbd','liga','ljmo','lnum','locl','ltra','ltrm','mark','med2','medi','mgrk','mkmk','mset','nalt','nlck','nukt','numr','onum','opbd','ordn','ornm','palt','pcap','pkna','pnum','pref','pres','pstf','psts','pwid','qwid','rand','rclt','rkrf','rlig','rphf','rtbd','rtla','rtlm','ruby','salt','sinf','size','smcp','smpl','ss01','ss02','ss03','ss04','ss05','ss06','ss07','ss08','ss09','ss10','ss11','ss12','ss13','ss14','ss15','ss16','ss17','ss18','ss19','ss20','ssty','stch','subs','sups','swsh','titl','tjmo','tnam','tnum','trad','twid','unic','valt','vatu','vert','vhal','vjmo','vkna','vkrn','vpal','vrt2','zero');
+						$FF = array("test",'aalt','abvf','abvm','abvs','afrc','akhn','blwf','blwm','blws','calt','case','ccmp','cfar','cjct','clig','cpct','cpsp','cswh','curs','cv01','c2pc','c2sc','dist','dlig','dnom','dtls','expt','falt','fin2','fin3','fina','flac','frac','fwid','half','haln','halt','hist','hkna','hlig','hngl','hojo','hwid','init','isol','ital','jalt','jp78','jp83','jp90','jp04','kern','lfbd','liga','ljmo','lnum','locl','ltra','ltrm','mark','med2','medi','mgrk','mkmk','mset','nalt','nlck','nukt','numr','onum','opbd','ordn','ornm','palt','pcap','pkna','pnum','pref','pres','pstf','psts','pwid','qwid','rand','rclt','rkrf','rlig','rphf','rtbd','rtla','rtlm','ruby','salt','sinf','size','smcp','smpl','ss01','ss02','ss03','ss04','ss05','ss06','ss07','ss08','ss09','ss10','ss11','ss12','ss13','ss14','ss15','ss16','ss17','ss18','ss19','ss20','ssty','stch','subs','sups','swsh','titl','tjmo','tnam','tnum','trad','twid','unic','valt','vatu','vert','vhal','vjmo','vkna','vkrn','vpal','vrt2','zero');
 						$counter = 0;
 						foreach ($FF as &$i) { 
 							$counter = $counter + 1;

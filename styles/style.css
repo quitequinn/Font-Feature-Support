@@ -7756,8 +7756,7 @@ h1, .h1 {
 
 /* line 90, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
 h2, .h2 {
-  border-top: 5px solid;
-  margin-top: 1.5rem;
+  margin-top: 3rem;
   padding-top: 0.5rem;
   font-weight: 700;
   font-size: 30px;
@@ -7782,7 +7781,7 @@ h2, .h2 {
   }
 }
 
-/* line 108, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
+/* line 107, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
 h3, .h3 {
   font-weight: 100;
   line-height: 1.4;
@@ -7790,31 +7789,31 @@ h3, .h3 {
   font-size: 40px;
 }
 @media (min-width: 34em) {
-  /* line 108, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
+  /* line 107, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
   h3, .h3 {
     font-size: 50px;
   }
 }
 @media (min-width: 48em) {
-  /* line 108, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
+  /* line 107, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
   h3, .h3 {
     font-size: 56px;
   }
 }
 @media (min-width: 62em) {
-  /* line 108, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
+  /* line 107, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
   h3, .h3 {
     font-size: 68px;
   }
 }
 @media (min-width: 75em) {
-  /* line 108, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
+  /* line 107, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
   h3, .h3 {
     font-size: 72px;
   }
 }
 
-/* line 127, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
+/* line 126, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
 h4, .h4 {
   font-weight: 400;
   margin-top: 1rem;
@@ -7823,32 +7822,33 @@ h4, .h4 {
   font-family: "BruceProtoOne", Futura, Arial, sans-serif;
 }
 @media (min-width: 34em) {
-  /* line 127, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
+  /* line 126, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
   h4, .h4 {
     font-size: 27px;
   }
 }
 @media (min-width: 62em) {
-  /* line 127, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
+  /* line 126, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
   h4, .h4 {
     font-size: 31.5px;
   }
 }
 @media (min-width: 75em) {
-  /* line 127, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
+  /* line 126, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
   h4, .h4 {
     font-size: 36px;
   }
 }
 
-/* line 144, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
+/* line 143, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
 h5, .h5 p, .h5 {
   margin-top: 1rem;
+  margin-bottom: 2rem;
   padding-top: .5rem;
   font-size: 16px;
   line-height: 1.4;
+  max-width: 650px;
   font-family: "BruceProtoOne", Futura, Arial, sans-serif;
-  text-transform: capitalize;
 }
 
 /* line 152, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
@@ -7886,27 +7886,9 @@ p {
 }
 
 /* line 180, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
-.el-icon-remove, .el-icon-pencil, .el-icon-forward, .el-icon-play {
-  font-size: 20px !important;
-  line-height: 1.5;
-  display: inline-block;
-  cursor: pointer;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  -webkit-tap-highlight-color: transparent;
-}
-/* line 186, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
-.el-icon-remove:before, .el-icon-pencil:before, .el-icon-forward:before, .el-icon-play:before {
-  font-size: 1.5em;
-}
-@media (min-width: 100em) {
-  /* line 186, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/_global.scss */
-  .el-icon-remove:before, .el-icon-pencil:before, .el-icon-forward:before, .el-icon-play:before {
-    font-size: 2em;
-  }
+footer {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
 }
 
 /* line 1, ../../../../../../../Users/qkeave/Desktop/WEB/Font-Feature-Support/src/sass/partials/_OT-table.scss */

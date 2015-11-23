@@ -26,7 +26,7 @@ function isDomainAvailible($domain) {
 
 
 	<footer id="colophon" class="site-footer container section" role="contentinfo">
-
+      <a href="https://github.com/quitequinn/Font-Feature-Support">Found on github (https://github.com/quitequinn/Font-Feature-Support)</a>
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
