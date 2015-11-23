@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontPrep 20130207 at Mon Nov 23 13:09:12 2015
+ By Quinn Keaveney
+</metadata>
+<defs>
+<font id="398379dbf85b49beab162f7218352cee" horiz-adv-x='1024' >
+  <font-face 
+    font-family="YN-book"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="1536"
+    descent="-512"
+    bbox="-4 -512 1452 1497"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0020-0059"
+  />
+<missing-glyph 
+d="M205 -410h614v1805h-614v-1805zM102 -512v2009h820v-2009h-820z" />
+    <glyph glyph-name=".notdef" 
+d="M205 -410h614v1805h-614v-1805zM102 -512v2009h820v-2009h-820z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" vert-adv-y="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="681" 
+ />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="563" 
+ />
+    <glyph glyph-name="N" unicode="N" horiz-adv-x="1564" 
+d="M113 0v1434h286l684 -766v766h369v-1434h-287l-684 764v-764h-368z" />
+    <glyph glyph-name="Y" unicode="Y" horiz-adv-x="1320" vert-adv-y="1564" 
+d="M477 0v649l-481 785h418l248 -426l247 426h418l-481 -785v-649h-369z" />
+  </font>
+</defs></svg>

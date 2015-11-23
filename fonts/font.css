@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'YN book';
+  src: url('Y:N.eot'); /* IE9 Compat Modes */
+  src: url('Y:N.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Y:N.woff') format('woff'), /* Modern Browsers */
+       url('Y:N.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Y:N.svg#398379dbf85b49beab162f7218352cee') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
