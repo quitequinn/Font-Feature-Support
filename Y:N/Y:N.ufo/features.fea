@@ -1,0 +1,554 @@
+@y = [Y];
+@n = [N];
+
+feature aalt{
+    sub @n by @y;
+} aalt;
+
+feature abvf{
+    sub @n by @y;
+} abvf;
+
+feature abvm{
+    sub @n by @y;
+} abvm;
+
+feature abvs{
+    sub @n by @y;
+} abvs;
+
+feature afrc{
+    sub @n by @y;
+} afrc;
+
+feature akhn{
+    sub @n by @y;
+} akhn;
+
+feature blwf{
+    sub @n by @y;
+} blwf;
+
+feature blwm{
+    sub @n by @y;
+} blwm;
+
+feature blws{
+    sub @n by @y;
+} blws;
+
+feature calt{
+    sub @n by @y;
+} calt;
+
+feature case{
+    sub @n by @y;
+} case;
+
+feature ccmp{
+    sub @n by @y;
+} ccmp;
+
+feature cfar{
+    sub @n by @y;
+} cfar;
+
+feature cjct{
+    sub @n by @y;
+} cjct;
+
+feature clig{
+    sub @n by @y;
+} clig;
+
+feature cpct{
+    sub @n by @y;
+} cpct;
+
+feature cpsp{
+    sub @n by @y;
+} cpsp;
+
+feature cswh{
+    sub @n by @y;
+} cswh;
+
+feature curs{
+    sub @n by @y;
+} curs;
+
+feature c2pc{
+    sub @n by @y;
+} c2pc;
+
+feature c2sc{
+    sub @n by @y;
+} c2sc;
+
+feature dist{
+    sub @n by @y;
+} dist;
+
+feature dlig{
+    sub @n by @y;
+} dlig;
+
+feature dnom{
+    sub @n by @y;
+} dnom;
+
+feature dtls{
+    sub @n by @y;
+} dtls;
+
+feature expt{
+    sub @n by @y;
+} expt;
+
+feature falt{
+    sub @n by @y;
+} falt;
+
+feature fin2{
+    sub @n by @y;
+} fin2;
+
+feature fin3{
+    sub @n by @y;
+} fin3;
+
+feature fina{
+    sub @n by @y;
+} fina;
+
+feature flac{
+    sub @n by @y;
+} flac;
+
+feature frac{
+    sub @n by @y;
+} frac;
+
+feature fwid{
+    sub @n by @y;
+} fwid;
+
+feature half{
+    sub @n by @y;
+} half;
+
+feature haln{
+    sub @n by @y;
+} haln;
+
+feature halt{
+    sub @n by @y;
+} halt;
+
+feature hist{
+    sub @n by @y;
+} hist;
+
+feature hkna{
+    sub @n by @y;
+} hkna;
+
+feature hlig{
+    sub @n by @y;
+} hlig;
+
+feature hngl{
+    sub @n by @y;
+} hngl;
+
+feature hojo{
+    sub @n by @y;
+} hojo;
+
+feature hwid{
+    sub @n by @y;
+} hwid;
+
+feature init{
+    sub @n by @y;
+} init;
+
+feature isol{
+    sub @n by @y;
+} isol;
+
+feature ital{
+    sub @n by @y;
+} ital;
+
+feature jalt{
+    sub @n by @y;
+} jalt;
+
+feature jp78{
+    sub @n by @y;
+} jp78;
+
+feature jp83{
+    sub @n by @y;
+} jp83;
+
+feature jp90{
+    sub @n by @y;
+} jp90;
+
+feature jp04{
+    sub @n by @y;
+} jp04;
+
+feature kern{
+    sub @n by @y;
+} kern;
+
+feature lfbd{
+    sub @n by @y;
+} lfbd;
+
+feature liga{
+    sub @n by @y;
+} liga;
+
+feature ljmo{
+    sub @n by @y;
+} ljmo;
+
+feature lnum{
+    sub @n by @y;
+} lnum;
+
+feature locl{
+    sub @n by @y;
+} locl;
+
+feature ltra{
+    sub @n by @y;
+} ltra;
+
+feature ltrm{
+    sub @n by @y;
+} ltrm;
+
+feature mark{
+    sub @n by @y;
+} mark;
+
+feature med2{
+    sub @n by @y;
+} med2;
+
+feature medi{
+    sub @n by @y;
+} medi;
+
+feature mgrk{
+    sub @n by @y;
+} mgrk;
+
+feature mkmk{
+    sub @n by @y;
+} mkmk;
+
+feature mset{
+    sub @n by @y;
+} mset;
+
+feature nalt{
+    sub @n by @y;
+} nalt;
+
+feature nlck{
+    sub @n by @y;
+} nlck;
+
+feature nukt{
+    sub @n by @y;
+} nukt;
+
+feature numr{
+    sub @n by @y;
+} numr;
+
+feature onum{
+    sub @n by @y;
+} onum;
+
+feature opbd{
+    sub @n by @y;
+} opbd;
+
+feature ordn{
+    sub @n by @y;
+} ordn;
+
+feature ornm{
+    sub @n by @y;
+} ornm;
+
+feature palt{
+    sub @n by @y;
+} palt;
+
+feature pcap{
+    sub @n by @y;
+} pcap;
+
+feature pkna{
+    sub @n by @y;
+} pkna;
+
+feature pnum{
+    sub @n by @y;
+} pnum;
+
+feature pref{
+    sub @n by @y;
+} pref;
+
+feature pres{
+    sub @n by @y;
+} pres;
+
+feature pstf{
+    sub @n by @y;
+} pstf;
+
+feature psts{
+    sub @n by @y;
+} psts;
+
+feature pwid{
+    sub @n by @y;
+} pwid;
+
+feature qwid{
+    sub @n by @y;
+} qwid;
+
+feature rand{
+    sub @n by @y;
+} rand;
+
+feature rclt{
+    sub @n by @y;
+} rclt;
+
+feature rkrf{
+    sub @n by @y;
+} rkrf;
+
+feature rlig{
+    sub @n by @y;
+} rlig;
+
+feature rphf{
+    sub @n by @y;
+} rphf;
+
+feature rtbd{
+    sub @n by @y;
+} rtbd;
+
+feature rtla{
+    sub @n by @y;
+} rtla;
+
+feature rtlm{
+    sub @n by @y;
+} rtlm;
+
+feature ruby{
+    sub @n by @y;
+} ruby;
+
+feature salt{
+    sub @n by @y;
+} salt;
+
+feature sinf{
+    sub @n by @y;
+} sinf;
+
+feature size{
+    sub @n by @y;
+} size;
+
+feature smcp{
+    sub @n by @y;
+} smcp;
+
+feature smpl{
+    sub @n by @y;
+} smpl;
+
+feature ss01{
+    sub @n by @y;
+} ss01;
+
+feature ss02{
+    sub @n by @y;
+} ss02;
+
+feature ss03{
+    sub @n by @y;
+} ss03;
+
+feature ss04{
+    sub @n by @y;
+} ss04;
+
+feature ss05{
+    sub @n by @y;
+} ss05;
+
+feature ss06{
+    sub @n by @y;
+} ss06;
+
+feature ss07{
+    sub @n by @y;
+} ss07;
+
+feature ss08{
+    sub @n by @y;
+} ss08;
+
+feature ss09{
+    sub @n by @y;
+} ss09;
+
+feature ss10{
+    sub @n by @y;
+} ss10;
+
+feature ss11{
+    sub @n by @y;
+} ss11;
+
+feature ss12{
+    sub @n by @y;
+} ss12;
+
+feature ss13{
+    sub @n by @y;
+} ss13;
+
+feature ss14{
+    sub @n by @y;
+} ss14;
+
+feature ss15{
+    sub @n by @y;
+} ss15;
+
+feature ss16{
+    sub @n by @y;
+} ss16;
+
+feature ss17{
+    sub @n by @y;
+} ss17;
+
+feature ss18{
+    sub @n by @y;
+} ss18;
+
+feature ss19{
+    sub @n by @y;
+} ss19;
+
+feature ss20{
+    sub @n by @y;
+} ss20;
+
+feature ssty{
+    sub @n by @y;
+} ssty;
+
+feature stch{
+    sub @n by @y;
+} stch;
+
+feature subs{
+    sub @n by @y;
+} subs;
+
+feature sups{
+    sub @n by @y;
+} sups;
+
+feature swsh{
+    sub @n by @y;
+} swsh;
+
+feature titl{
+    sub @n by @y;
+} titl;
+
+feature tjmo{
+    sub @n by @y;
+} tjmo;
+
+feature tnam{
+    sub @n by @y;
+} tnam;
+
+feature tnum{
+    sub @n by @y;
+} tnum;
+
+feature trad{
+    sub @n by @y;
+} trad;
+
+feature twid{
+    sub @n by @y;
+} twid;
+
+feature unic{
+    sub @n by @y;
+} unic;
+
+feature valt{
+    sub @n by @y;
+} valt;
+
+feature vatu{
+    sub @n by @y;
+} vatu;
+
+feature vert{
+    sub @n by @y;
+} vert;
+
+feature vhal{
+    sub @n by @y;
+} vhal;
+
+feature vjmo{
+    sub @n by @y;
+} vjmo;
+
+feature vkna{
+    sub @n by @y;
+} vkna;
+
+feature vkrn{
+    sub @n by @y;
+} vkrn;
+
+feature vpal{
+    sub @n by @y;
+} vpal;
+
+feature vrt2{
+    sub @n by @y;
+} vrt2;
+
+feature zero{
+    sub @n by @y;
+} zero;

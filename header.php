@@ -24,13 +24,14 @@
 
  	<!-- JAVASCRIPT -->
 	<!-- Local Dependencies -->
-	<script src="dist/js/detects.js"></script>
 
  	<!-- CSS -->
 	<!-- CDN Dependencies -->
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"/>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet"/>
+	<link href="vendor/elusive-iconfont/css/elusive-webfont.css" rel="stylesheet" type="text/css"/>
+
 	<!-- Local Dependencies -->
-    <link rel="stylesheet" href="dist/css/main.css" type="text/css"/>
+    <link rel="stylesheet" href="styles/style.min.css" type="text/css"/>
 
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/ico" href="fav.ico"/>
@@ -43,6 +44,7 @@
 </head>
 
 <body>
+	<?php include("loader.php"); ?>
 
 	<!-- Old Browser Warning -->
 	<!--[if lt IE 9]>
@@ -52,12 +54,8 @@
 	<![endif]-->
 	<div class="jsdump" style="display:none;"></div>
 
-	<nav><!-- Skip Nav Link -->
-		<a class="screen-reader screen-reader-focusable" href="#main">Skip to content</a>
-	</nav>
-
 	<header id="masthead" class="site-header" role="banner">
 
 	</header><!-- #masthead -->
 
-	<main id="main" class="site-content">
+	<main class="site-content">
